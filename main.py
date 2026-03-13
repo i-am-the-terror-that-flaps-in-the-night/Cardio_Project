@@ -17,3 +17,12 @@ DISCLAIMER:
 This program is for educational purposes only.
 This is NOT medically accurate, see the disclaimer above.
 """
+
+
+from input_data import get_user_data
+from analysis import health_data
+age, resting_heart_rate, exercise_hours, height, weight = get_user_data()
+body_mass_index, max_heart_rate, heart_rate_reserve, fitness_score, str(cardio_risk * 100 + '%') = health_data()
+
+health_data()
+print(health_data())
