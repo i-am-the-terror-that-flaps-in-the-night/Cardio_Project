@@ -11,11 +11,3 @@ Basic cardio risk assesser, see main.py for disclaimer:
 #
 # It is only a student project for learning programming.
 # ------------------------------------------------------------
-
-"""
-Cardio Project
-A Python learning project that analyzes simple heart health metrics.
-DISCLAIMER:
-This program is for educational purposes only.
-This is NOT medically accurate, see the disclaimer above.
-"""
